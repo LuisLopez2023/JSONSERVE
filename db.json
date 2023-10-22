@@ -1,0 +1,19 @@
+{
+    "conductores" : [
+        {
+            "id": 1,
+            "nombre": "Francisco",
+            "genero": "Masculino"
+        },
+        {
+            "id": 2,
+            "nombre": "Juan",
+            "genero": "Masculino"
+        },
+        {
+            "id": 3,
+            "nombre": "Francisca",
+            "genero": "Femenino"
+        }
+    ]
+}
